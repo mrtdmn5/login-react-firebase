@@ -1,0 +1,25 @@
+.login{
+    border: 0.5px solid rgba(117, 117, 117, 0.384);
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    Form{
+        width: 50%;
+
+        .buttonsEnd{
+            display: flex;
+            justify-content: end;
+        
+        .buttons{
+            width: 67%;
+            margin-right: 25px;
+    display: flex;
+    justify-content: space-between;
+        }
+    }
+    }
+
+}

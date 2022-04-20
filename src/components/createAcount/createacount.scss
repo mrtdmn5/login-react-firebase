@@ -1,0 +1,70 @@
+
+.account{
+    display: flex;
+    
+
+    .sidecontainer{
+        width: 30%;
+        
+        
+    }
+.createacount{
+    border: 0.5px solid rgba(117, 117, 117, 0.384);
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .form{
+
+        width: 50%;
+        display: flex;
+        flex-flow: column;
+        align-items: end;
+        justify-content: center;
+    
+        .item{
+            width: 100%;
+           
+            input{
+                border: 0.5px solid rgba(117, 117, 117, 0.384);
+                width: 100%;
+                height: 40px;
+            }
+
+           
+
+           
+
+            
+            
+        }
+
+        .pass{
+           
+            display: flex;
+            width: 100%;
+            height: 40px;
+
+            .passInput{
+             
+                width: 100%;
+                height: 40px;
+            }
+        }
+
+
+        .buttonItem{
+            width: 50%;
+            margin-top: 10px;
+            .button{
+               
+                width: 100%;
+                height: 40px;
+            }
+        }
+    }
+
+}
+}
